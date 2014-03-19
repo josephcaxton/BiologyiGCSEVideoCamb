@@ -649,8 +649,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_ENTITLEMENTS = Cambridge.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Joseph caxton (99S98QLWW3)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Joseph caxton (99S98QLWW3)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BiologyiGCSEVideo/BiologyiGCSEVideoCamb-Prefix.pch";
 				INFOPLIST_FILE = "BiologyiGCSEVideo/BiologyiGCSEVideoCamb-Info.plist";
@@ -660,7 +660,7 @@
 					/Users/edit/Documents/Apps/BiologyiGCSEVideoCamb,
 				);
 				PRODUCT_NAME = Cambridge;
-				PROVISIONING_PROFILE = "BA0B382F-9CA6-4101-AE5C-0B21BADF3F9C";
+				PROVISIONING_PROFILE = "7028F148-71B4-403D-94F9-8DD95BBDFC84";
 				TARGETED_DEVICE_FAMILY = 2;
 				VALID_ARCHS = armv7;
 				WRAPPER_EXTENSION = app;
@@ -673,8 +673,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_ENTITLEMENTS = Cambridge.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Theta Computer Services Limited (9RNCM436XC)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Theta Computer Services Limited (9RNCM436XC)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BiologyiGCSEVideo/BiologyiGCSEVideoCamb-Prefix.pch";
 				INFOPLIST_FILE = "BiologyiGCSEVideo/BiologyiGCSEVideoCamb-Info.plist";
@@ -684,7 +684,7 @@
 					/Users/edit/Documents/Apps/BiologyiGCSEVideoCamb,
 				);
 				PRODUCT_NAME = Cambridge;
-				PROVISIONING_PROFILE = "1B9B335B-D36A-4139-9FFC-81AC45E50C3E";
+				PROVISIONING_PROFILE = "50B5C570-0F77-4921-B3A2-390A0EAE9B2E";
 				TARGETED_DEVICE_FAMILY = 2;
 				VALID_ARCHS = armv7;
 				WRAPPER_EXTENSION = app;
